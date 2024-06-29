@@ -6,4 +6,7 @@
 ### 26. Remove duplicates from sorted array 
 * No need to learn anything, easy one
 
+### 27. Remove Element 
+* Easy one
+
   
