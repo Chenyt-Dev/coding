@@ -9,4 +9,5 @@
 ### 27. Remove Element 
 * Easy one
 
-  
+### 35. Search Insert Position 
+* The idea of binary search 
