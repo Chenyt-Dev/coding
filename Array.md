@@ -11,3 +11,6 @@
 
 ### 35. Search Insert Position 
 * The idea of binary search 
+
+### 66. Plus One 
+* Idea is simple. Need to write it clean. 
