@@ -13,4 +13,8 @@
 * The idea of binary search 
 
 ### 66. Plus One 
-* Idea is simple. Need to write it clean. 
+* Idea is simple. Need to write it clean.
+
+### 88. Merge Sorted Array 
+* Simple idea.
+* But easy to make mistakes with the indexes. 
