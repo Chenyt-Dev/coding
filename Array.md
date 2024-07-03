@@ -18,3 +18,8 @@
 ### 88. Merge Sorted Array 
 * Simple idea.
 * But easy to make mistakes with the indexes. 
+
+### 118. Pascal's Triangle 
+* Different ways: recursion, math, dp.
+* I use recursion, simplest approach.
+* Learned List<Integer> in Java. 
