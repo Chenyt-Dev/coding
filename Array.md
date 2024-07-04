@@ -23,3 +23,7 @@
 * Different ways: recursion, math, dp.
 * I use recursion, simplest approach.
 * Learned List<Integer> in Java. 
+
+### 119. Pascal's Triangle II 
+* Same idea as 118. I use recursion again.
+* Note that I just use a 1-D array to generate it. To avoid overwriting, need to update the numbers from back to beginning for each row. 
