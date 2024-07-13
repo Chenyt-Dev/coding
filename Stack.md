@@ -5,5 +5,5 @@
 ### 94. Binary Tree Inorder Traversal 
 *  Inorder: left child, root, right child
 *  Recursive solution is easy to understand and write
-*  Learned the traverse way: an interesting approach using stack
+*  Learned the iterative way: an interesting approach using stack
 
