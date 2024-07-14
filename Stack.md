@@ -7,3 +7,8 @@
 *  Recursive solution is easy to understand and write
 *  Learned the iterative way: an interesting approach using stack
 
+### 144. Binary Tree Preorder Traversal 
+* Similar idea as 94, this time root, left child, right child 
+* But felt a little bit wierd, because using a stack I had to push right child first then left child
+
+
