@@ -20,4 +20,5 @@
 * Java uses poll() and offer() for pop() and push() for Queue.
 * Can't be elegant by using Queues to implement Stack. 
 
-
+### 232. Implement Queue using Stacks 
+* A similar thing
