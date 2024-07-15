@@ -16,5 +16,8 @@
 * Not be able to come up with the idea by my self
 * I was thinking about how to do it directly in postorder's order, but actually we can reverse it in a second stack - which makes it way easier 
 
+### 225. Implement Stack using Queues
+* Java uses poll() and offer() for pop() and push() for Queue.
+* Can't be elegant by using Queues to implement Stack. 
 
 
