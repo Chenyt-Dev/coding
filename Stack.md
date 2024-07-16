@@ -22,3 +22,8 @@
 
 ### 232. Implement Queue using Stacks 
 * A similar thing
+
+### 234. Palindrome Linked List 
+* Forgot it was under stack because the problem said can you do it in Space O(1)
+* Using stack is simple but for O(1) need to use 3 pointers to reverse the linked list, which is actually not elegant and not fast.
+
