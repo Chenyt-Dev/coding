@@ -6,3 +6,9 @@
 * There is an interesting thing though, using .trim() is faster than manually moving the index to skip the spaces
 * This is because inside of the trim() function, char[] is being used -> using array directly is faster than calling .charAt(index) multiple times. 
 
+### 67. Add Binary
+* Multiple ways to implement this. This is just a sumulation of the binary addings.
+* Found an interesting usage of StringBuilder - it could handle various of types like int, bool, char... which makes this problem easier. 
+
+
+
