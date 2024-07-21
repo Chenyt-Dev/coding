@@ -10,5 +10,7 @@
 * Multiple ways to implement this. This is just a sumulation of the binary addings.
 * Found an interesting usage of StringBuilder - it could handle various of types like int, bool, char... which makes this problem easier. 
 
-
+### 13. Roman to Integer 
+* Just need to simulate the process. Simple question.
+* For speeding, it's better to not using the hash map. But using something like arrays, case. 
 
