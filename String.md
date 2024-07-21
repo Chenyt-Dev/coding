@@ -14,3 +14,7 @@
 * Just need to simulate the process. Simple question.
 * For speeding, it's better to not using the hash map. But use something like arrays, case. 
 
+### 14. Longest Common Prefix 
+* Multiple solutions.
+* Thought using substring is a good idea. 
+
