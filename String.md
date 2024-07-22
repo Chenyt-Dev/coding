@@ -20,3 +20,8 @@
 
 ### 125. Valid Palindrome 
 * Learned some Character's build-in functions. 
+
+### 168. Excel Sheet Column Title 
+* Waste some time on this.
+* Need to think clearly before writing code. 
+
