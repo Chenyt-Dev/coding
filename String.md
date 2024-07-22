@@ -18,3 +18,5 @@
 * Multiple solutions.
 * Thought using substring is a good idea. 
 
+### 125. Valid Palindrome 
+* Learned some Character's build-in functions. 
