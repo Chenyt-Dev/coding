@@ -27,3 +27,9 @@
 
 ### 171. Excel Sheet Column Number 
 * Easy one
+
+### 205. Isomorphic Strings 
+* The idea of using arrays with cheching indexes is better.
+
+
+
