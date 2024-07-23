@@ -25,3 +25,5 @@
 * Waste some time on this.
 * Need to think clearly before writing code. 
 
+### 171. Excel Sheet Column Number 
+* Easy one
