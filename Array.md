@@ -27,3 +27,8 @@
 ### 119. Pascal's Triangle II 
 * Same idea as 118. I use recursion again.
 * Note that I just use a 1-D array to generate it. To avoid overwriting, need to update the numbers from back to beginning for each row. 
+
+### 169. Majority Element 
+* To make the space O(1) and time O(n), the key is 'majority'.
+
+
