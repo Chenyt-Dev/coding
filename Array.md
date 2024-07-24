@@ -31,4 +31,6 @@
 ### 169. Majority Element 
 * To make the space O(1) and time O(n), the key is 'majority'.
 
+### 217. Contains Duplicate 
+* It's hard to categorize sometimes. 
 
