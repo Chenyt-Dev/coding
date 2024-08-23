@@ -12,4 +12,10 @@
 * Good one for binary search, boundries checks
 * MULTIPLE
 
+### 5. Longest Palindromic Substring 
+* Dp way is faster
+* Center expanding is trivial but good to practice
+* MULTIPLE
+
+  
 
