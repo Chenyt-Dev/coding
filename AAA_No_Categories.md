@@ -17,5 +17,6 @@
 * Center expanding is trivial but good to practice
 * MULTIPLE
 
-  
+### 6. Zigzag Conversion 
+* Missed a corner case at first but should use a more general way. 
 
