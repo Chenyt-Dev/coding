@@ -23,4 +23,5 @@
 ### 7. Reverse Integer 
 * Need to check the problem descriptions carefully. There are some constraints.
 
-
+### 8. String to Integer (atoi) 
+* Using long is easier to handle the edge cases. 
