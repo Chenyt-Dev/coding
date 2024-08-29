@@ -25,3 +25,9 @@
 
 ### 8. String to Integer (atoi) 
 * Using long is easier to handle the edge cases. 
+
+### 9. Palindrome Number 
+* Reverse the number and compare.
+* Reverse half of the number is also working.
+
+
