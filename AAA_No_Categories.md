@@ -30,4 +30,9 @@
 * Reverse the number and compare.
 * Reverse half of the number is also working.
 
+### 10. Regular Expression Matching 
+* A good one for a introduction of dp.
+* Need to consider each case but not very complicated.
+* MULTIPLE
+
 
