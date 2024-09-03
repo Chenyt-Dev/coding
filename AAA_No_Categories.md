@@ -39,4 +39,10 @@
 * Not a regular algorithm, need to think about the strategy of movements. 
 
 ### 12. Integer to Roman 
-* Too easy but costs time to write. Should not be a good one. 
+* Too easy but costs time to write. Should not be a good one.
+
+### 15. 3Sum
+* Two pointer solution. O(n^2)
+* It's easy to implement after looking at the solutions.
+* Need to figure out what is the fastest approach, what is the best possible complexity.
+* MULTIPLE
