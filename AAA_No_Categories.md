@@ -46,3 +46,9 @@
 * It's easy to implement after looking at the solutions.
 * Need to figure out what is the fastest approach, what is the best possible complexity.
 * MULTIPLE
+
+### 16. 3Sum Closest
+* Similar to 15 but just need to maintain a closest value. 
+* Can use Math.abs but I used 2 values(for + and -) which is redundent. 
+
+
