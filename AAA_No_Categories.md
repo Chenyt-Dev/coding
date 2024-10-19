@@ -51,4 +51,6 @@
 * Similar to 15 but just need to maintain a closest value. 
 * Can use Math.abs but I used 2 values(for + and -) which is redundent. 
 
+### 17. Letter Combinations of a Phone Number 
+* Can use recursive function or fifo queue. 
 
