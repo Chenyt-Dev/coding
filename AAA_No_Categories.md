@@ -52,5 +52,12 @@
 * Can use Math.abs but I used 2 values(for + and -) which is redundent. 
 
 ### 17. Letter Combinations of a Phone Number 
-* Can use recursive function or fifo queue. 
+* Can use recursive function or fifo queue.
+
+### 18. 4Sum 
+* Approach good for problems > 4 as well.
+* Need to pay attention to integer overflow.
+* MULTIPLE
+
+
 
