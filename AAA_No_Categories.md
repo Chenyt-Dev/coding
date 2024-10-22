@@ -62,7 +62,9 @@
 ### 19. Remove Nth Node From End of List 
 * An easy one. Use 2 pointers.
 
-
+### 21. Merge Two Sorted Lists 
+* Good and easy one.
+* Could do recursive and iterative. 
 
 
 
