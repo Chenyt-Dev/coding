@@ -66,5 +66,7 @@
 * Good and easy one.
 * Could do recursive and iterative. 
 
+### 22. Generate Parentheses 
+* Easy backtracking 
 
 
