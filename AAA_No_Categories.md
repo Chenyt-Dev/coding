@@ -73,3 +73,14 @@
 * The idea is not hard although it's a hard.
 * In java, PriorityQueue is used as implementing a min-heap.
 
+### 24. Swap Nodes in Pairs 
+* An easy way is to use iterative approach, swap pair by pair and use constant space.
+* Saw recursive way. Only need to use very simple implementation, but the stack space is O(n).
+
+
+
+
+
+
+
+
