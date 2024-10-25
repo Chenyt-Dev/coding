@@ -69,4 +69,7 @@
 ### 22. Generate Parentheses 
 * Easy backtracking 
 
+### 23. Merge k Sorted Lists 
+* The idea is not hard although it's a hard.
+* In java, PriorityQueue is used as implementing a min-heap.
 
