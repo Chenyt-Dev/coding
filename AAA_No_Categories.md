@@ -77,6 +77,8 @@
 * An easy way is to use iterative approach, swap pair by pair and use constant space.
 * Saw recursive way. Only need to use very simple implementation, but the stack space is O(n).
 
+### 25. Reverse Nodes in k-Group 
+* The idea is similar to 24. Used recursive way this time. 
 
 
 
