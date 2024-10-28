@@ -85,6 +85,8 @@
 * Doubt that will this really going to exist in an interview?
 * MULTIPLE
 
+### 30. Substring with Concatenation of All Words 
+* Need to do a memorize to avoid tle. 
 
 
 
