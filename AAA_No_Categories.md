@@ -86,7 +86,13 @@
 * MULTIPLE
 
 ### 30. Substring with Concatenation of All Words 
-* Need to do a memorize to avoid tle. 
+* Need to do a memorize to avoid tle.
+* Learned that solution spending lots of time.
+* MULTIPLE
+
+### 31. Next Permutation
+* Know the idea but took some time to get it right.
+* No need to use sort function, just need to swap and reverse. 
 
 
 
