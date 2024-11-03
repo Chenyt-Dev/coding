@@ -98,4 +98,8 @@
 * Learned a smart way to use stack. The longest can be calculated while going through the string.
 * MULTIPLE
 
+### 33. Search in Rotated Sorted Array 
+* Still learning. The key to this problem is to find the judgement of moving to left or right side.
+* Why I still cannot resolve it by myself. 
+* MULTIPLE
 
