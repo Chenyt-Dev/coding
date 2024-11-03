@@ -94,6 +94,8 @@
 * Know the idea but took some time to get it right.
 * No need to use sort function, just need to swap and reverse. 
 
-
+### 32. Longest Valid Parentheses 
+* Learned a smart way to use stack. The longest can be calculated while going through the string.
+* MULTIPLE
 
 
