@@ -103,3 +103,9 @@
 * Why I still cannot resolve it by myself. 
 * MULTIPLE
 
+### 34. Find First and Last Position of Element in Sorted Array 
+* Got the idea but a little bit redundent. 
+
+
+
+
