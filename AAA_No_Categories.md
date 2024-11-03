@@ -106,6 +106,8 @@
 ### 34. Find First and Last Position of Element in Sorted Array 
 * Got the idea but a little bit redundent. 
 
-
+### 36. Valid Sudoku 
+* Done with the way to group 3 kinds into 3 9x9 tables.
+* Found an approach that is really impressive using strings. 
 
 
