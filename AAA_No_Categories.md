@@ -114,3 +114,5 @@
 * Used the basic idea of backtracking. The sudoku board is small, so not much optimizations.
 * But the sutle details took me some time to debug. 
 
+### 38. Count and Say 
+* Just put the simplest idea. What is the meaning of this problem? 
