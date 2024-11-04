@@ -116,3 +116,11 @@
 
 ### 38. Count and Say 
 * Just put the simplest idea. What is the meaning of this problem? 
+
+### 39. Combination Sum 
+* Another backtracking and didn't get it right at the first time.
+* The idea is to make one move in each round.
+* Found that it is the classic dp problem in discussions. But I'll do dp later. 
+
+
+
