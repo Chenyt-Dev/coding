@@ -110,4 +110,7 @@
 * Done with the way to group 3 kinds into 3 9x9 tables.
 * Found an approach that is really impressive using strings. 
 
+### 37. Sudoku Solver 
+* Used the basic idea of backtracking. The sudoku board is small, so not much optimizations.
+* But the sutle details took me some time to debug. 
 
