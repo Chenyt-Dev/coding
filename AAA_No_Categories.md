@@ -127,4 +127,12 @@
 
 ### 41. First Missing Positive 
 * So when the description mentions "O(1)" space, try to think about swaps?
-* Didn't think of duplicate numbers at the first submit. 
+* Didn't think of duplicate numbers at the first submit.
+
+### 42. Trapping Rain Water 
+* Got the idea pretty quick but... didn't resolve it by myself.
+* MULTIPLE
+
+
+
+
