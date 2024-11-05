@@ -126,5 +126,5 @@
 * Need to practive some backtrackings. 
 
 ### 41. First Missing Positive 
-* So when the description mentions "O(1)" time, try to think about swaps?
+* So when the description mentions "O(1)" space, try to think about swaps?
 * Didn't think of duplicate numbers at the first submit. 
