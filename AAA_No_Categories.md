@@ -122,5 +122,7 @@
 * The idea is to make one move in each round.
 * Found that it is the classic dp problem in discussions. But I'll do dp later. 
 
+### 40. Combination Sum II
+* Need to practive some backtrackings. 
 
 
