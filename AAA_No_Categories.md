@@ -133,6 +133,8 @@
 * Got the idea pretty quick but... didn't resolve it by myself.
 * MULTIPLE
 
+### 43. Multiply Strings
+* Think clearly. 
 
 
 
