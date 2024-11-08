@@ -144,4 +144,9 @@
 * Need to use optimized strategy, not wasting time in for loops. 
 
 ### 46. Permutations 
-* Another backtracking. Can resolve by myself now. 
+* Another backtracking. Can resolve by myself now.
+
+### 47. Permutations II 
+* For 46 I use swaps during backtracking, but for this one I cannot do that because there are duplicates.
+* Use a boolean list to record if the number has been used or not.
+* MULTIPLE
