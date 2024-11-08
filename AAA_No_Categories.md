@@ -138,3 +138,8 @@
 
 ### 44. Wildcard Matching
 * Similar to 10.
+
+### 45. Jump Game II
+* A taste of greedy.
+* Need to use optimized strategy, not wasting time in for loops. 
+
