@@ -143,3 +143,5 @@
 * A taste of greedy.
 * Need to use optimized strategy, not wasting time in for loops. 
 
+### 46. Permutations 
+* Another backtracking. Can resolve by myself now. 
