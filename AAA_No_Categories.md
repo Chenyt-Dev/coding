@@ -150,3 +150,7 @@
 * For 46 I use swaps during backtracking, but for this one I cannot do that because there are duplicates.
 * Use a boolean list to record if the number has been used or not.
 * MULTIPLE
+
+### 48. Rotate Image 
+* Used a formula that just calculated by myself.
+* Then found the the solutions people use are easier to implement (but not easy to come up with). 
