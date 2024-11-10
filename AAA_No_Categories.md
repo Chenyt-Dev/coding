@@ -158,4 +158,6 @@
 ### 49. Group Anagrams 
 * Map reminding.
 
+### 50. Pow(x, n) 
+* Need to figure out for what kinds of problems I need to use bit manipulations..
 
