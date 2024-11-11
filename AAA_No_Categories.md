@@ -165,6 +165,11 @@
 * Another dfs. Could have some memorizations.
 * MULTIPLE
 
+### 52. N-Queens II 
+* Similar to 51, but not need to actually keep the board.
+* MULTIPLE
+
+
 
 
 
