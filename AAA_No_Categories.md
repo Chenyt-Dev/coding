@@ -161,3 +161,11 @@
 ### 50. Pow(x, n) 
 * Need to figure out for what kinds of problems I need to use bit manipulations..
 
+### 51. N-Queens 
+* Another dfs. Could have some memorizations.
+* MULTIPLE
+
+
+
+
+
