@@ -175,4 +175,6 @@
 ### 54. Spiral Matrix
 * Feels like the easiest way is to set boundries and traverse 4 directions in a loop. 
 
+### 55. Jump Game 
+* Easier version. Just one pass. 
 
