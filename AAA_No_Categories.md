@@ -178,3 +178,6 @@
 ### 55. Jump Game 
 * Easier version. Just one pass. 
 
+### 56. Merge Intervals 
+* Some reviews of customized sortings.
+* What really matters in sorting is just the first value. 
