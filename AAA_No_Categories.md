@@ -180,4 +180,10 @@
 
 ### 56. Merge Intervals 
 * Some reviews of customized sortings.
-* What really matters in sorting is just the first value. 
+* What really matters in sorting is just the first value.
+
+### 57. Insert Interval 
+* Got the idea but with a pretty ugly code.
+* Saw some code more efficient. 
+
+
