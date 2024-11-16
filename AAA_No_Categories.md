@@ -186,4 +186,6 @@
 * Got the idea but with a pretty ugly code.
 * Saw some code more efficient. 
 
+### 59. Spiral Matrix II 
+* Same idea. 
 
