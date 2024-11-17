@@ -189,3 +189,6 @@
 ### 59. Spiral Matrix II 
 * Same idea. 
 
+### 60. Permutation Sequence 
+* The idea is simple, just some math.
+* Code can be cleaner by using something like -1. 
