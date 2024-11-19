@@ -191,4 +191,9 @@
 
 ### 60. Permutation Sequence 
 * The idea is simple, just some math.
-* Code can be cleaner by using something like -1. 
+* Code can be cleaner by using something like -1.
+
+### 61. Rotate List 
+* Basically same idea. 
+
+
