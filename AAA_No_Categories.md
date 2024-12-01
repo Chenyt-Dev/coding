@@ -203,6 +203,8 @@
 * Dp with obstacles.
 * I added some initializations but actually not need to do this. Can judge with the obstacles while moving. 
 
+### 64. Minimum Path Sum 
+* So another dp, almost the same. 
 
 
 
