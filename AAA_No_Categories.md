@@ -206,5 +206,7 @@
 ### 64. Minimum Path Sum 
 * So another dp, almost the same. 
 
-
+### 65. Valid Number 
+* Implemented by several ifs. Will this happen in real interview?
+* MULTIPLE
 
