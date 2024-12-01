@@ -199,3 +199,10 @@
 ### 62. Unique Paths 
 * Didn't think of at the beginning but this is an obvious dp. Moving backwards. 
 
+### 63. Unique Paths II 
+* Dp with obstacles.
+* I added some initializations but actually not need to do this. Can judge with the obstacles while moving. 
+
+
+
+
