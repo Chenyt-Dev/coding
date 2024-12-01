@@ -196,4 +196,6 @@
 ### 61. Rotate List 
 * Basically same idea. 
 
+### 62. Unique Paths 
+* Didn't think of at the beginning but this is an obvious dp. Moving backwards. 
 
