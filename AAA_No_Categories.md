@@ -210,3 +210,5 @@
 * Implemented by several ifs. Will this happen in real interview?
 * MULTIPLE
 
+### 68. Text Justification 
+* Not a 'hard' one but need some time to address all the details. 
