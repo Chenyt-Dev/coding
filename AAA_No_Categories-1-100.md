@@ -216,3 +216,5 @@
 ### 70. Climbing Stairs
 * A fibonacci problem. 
 
+### 71. Simplify Path 
+* Learned String.split and insert of StringBuilder. 
