@@ -212,3 +212,7 @@
 
 ### 68. Text Justification 
 * Not a 'hard' one but need some time to address all the details. 
+
+### 70. Climbing Stairs
+* A fibonacci problem. 
+
