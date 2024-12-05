@@ -218,3 +218,9 @@
 
 ### 71. Simplify Path 
 * Learned String.split and insert of StringBuilder. 
+
+### 72. Edit Distance 
+* Didn't recognize dp again..
+
+
+
