@@ -222,5 +222,6 @@
 ### 72. Edit Distance 
 * Didn't recognize dp again..
 
-
+### 73. Set Matrix Zeroes 
+* Set the flags in-place. Need to be careful of the orders for setting zeros. The flags should be the last ones. 
 
