@@ -225,3 +225,6 @@
 ### 73. Set Matrix Zeroes 
 * Set the flags in-place. Need to be careful of the orders for setting zeros. The flags should be the last ones. 
 
+### 74. Search a 2D Matrix 
+* Do binary search 2 times.
+* Need to be careful of the boundries. 
