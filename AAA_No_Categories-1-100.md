@@ -228,3 +228,6 @@
 ### 74. Search a 2D Matrix 
 * Do binary search 2 times.
 * Need to be careful of the boundries. 
+
+### 75. Sort Colors 
+* I would think the swap solution be the regular one. 
