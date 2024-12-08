@@ -238,3 +238,6 @@
 
 ### 77. Combinations 
 * Can do backtracking or recursive. 
+
+### 78. Subsets 
+* Think that recursive is better for this problem because using backtrack contains some duplicates. 
