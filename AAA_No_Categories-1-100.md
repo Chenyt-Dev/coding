@@ -241,3 +241,6 @@
 
 ### 78. Subsets 
 * Think that recursive is better for this problem because using backtrack contains some duplicates. 
+
+### 79. Word Search 
+* Just a typical dfs. I guess some memo can make it perform better but I didn't do it. Saw similar answers in solution tab.
