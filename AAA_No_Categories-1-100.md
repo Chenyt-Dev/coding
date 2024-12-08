@@ -231,3 +231,8 @@
 
 ### 75. Sort Colors 
 * I would think the swap solution be the regular one. 
+
+### 76. Minimum Window Substring 
+* A good one for sliding window. Need to be careful of each condition.
+* MULTIPLE
+
