@@ -244,3 +244,10 @@
 
 ### 79. Word Search 
 * Just a typical dfs. I guess some memo can make it perform better but I didn't do it. Saw similar answers in solution tab.
+
+### 80. Remove Duplicates from Sorted Array II 
+* Use a variable to store the position of the current length.
+
+
+
+
