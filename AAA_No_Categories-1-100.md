@@ -248,6 +248,9 @@
 ### 80. Remove Duplicates from Sorted Array II 
 * Use a variable to store the position of the current length.
 
+### 81. Search in Rotated Sorted Array II 
+* Still not good at this kind of problem. Need to review the condition again.
+* MULTIPLE
 
 
 
