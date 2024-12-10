@@ -255,4 +255,6 @@
 ### 82. Remove Duplicates from Sorted List II 
 * Got the idea but need to be neat. 
 
+### 83. Remove Duplicates from Sorted List 
+* Why the easier one is 83. 
 
