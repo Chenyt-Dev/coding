@@ -258,3 +258,11 @@
 ### 83. Remove Duplicates from Sorted List 
 * Why the easier one is 83. 
 
+### 84. Largest Rectangle in Histogram 
+* It's easier to implement and explain if we use the approach to calculate the lower bounds of each position.
+* The stack method is not as straight forward as it and harder to explain. 
+
+
+
+
+
