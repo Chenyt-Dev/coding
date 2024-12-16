@@ -262,6 +262,10 @@
 * It's easier to implement and explain if we use the approach to calculate the lower bounds of each position.
 * The stack method is not as straight forward as it and harder to explain. 
 
+### 85. Maximal Rectangle 
+* An interesting one that we can use a 1-D array to do this in dp.
+* For each position, we calculate the square size with the maximum possible height. If we meet zero, we reset the left and right boundries for that position.
+* MULTIPLE
 
 
 
