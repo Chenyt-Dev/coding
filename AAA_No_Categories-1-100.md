@@ -267,6 +267,9 @@
 * For each position, we calculate the square size with the maximum possible height. If we meet zero, we reset the left and right boundries for that position.
 * MULTIPLE
 
+### 86. Partition List 
+* Wrote a solution to convert the nodes in place with 4 pointers, then found that people were all writing connecting two lists with two pointers. 
+
 
 
 
