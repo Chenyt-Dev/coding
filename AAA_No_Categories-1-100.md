@@ -270,6 +270,13 @@
 ### 86. Partition List 
 * Wrote a solution to convert the nodes in place with 4 pointers, then found that people were all writing connecting two lists with two pointers. 
 
+### 87. Scramble String 
+* Did this recursively with a memo. 
+
+
+
+
+
 
 
 
