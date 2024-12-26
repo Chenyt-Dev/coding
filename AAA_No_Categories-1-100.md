@@ -273,6 +273,8 @@
 ### 87. Scramble String 
 * Did this recursively with a memo. 
 
+### 89. Gray Code 
+* Didn't come up with an idea. Need some time with bit operations. 
 
 
 
