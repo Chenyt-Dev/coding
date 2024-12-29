@@ -285,6 +285,7 @@
 ### 92. Reverse Linked List II 
 * Had to use multiple pointers. Not difficult but just felt like not like linked list problems. 
 
-
+### 93. Restore IP Addresses 
+* Both backtrack and iterative are good. 
 
 
