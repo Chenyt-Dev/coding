@@ -292,6 +292,8 @@
 * It has recursive and dp solutions.
 * MULTIPLE
 
+### 96. Unique Binary Search Trees 
+* Same idea as 95, just don't need to build the tree. 
 
 
 
