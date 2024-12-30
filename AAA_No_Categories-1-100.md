@@ -301,3 +301,6 @@
 ### 98. Validate Binary Search Tree 
 * Used boundries, but thought inorder might be better. 
 
+### 99. Recover Binary Search Tree 
+* Had to use inorder. It's quite smart to use.
+
