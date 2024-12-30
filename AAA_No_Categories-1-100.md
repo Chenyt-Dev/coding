@@ -298,4 +298,6 @@
 ### 97. Interleaving String 
 * Used 2-D dp. 
 
+### 98. Validate Binary Search Tree 
+* Used boundries, but thought inorder might be better. 
 
