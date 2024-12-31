@@ -1,7 +1,8 @@
 ### 102. Binary Tree Level Order Traversal 
 * Used pre order traverse and dfs.
 
-
+### 103. Binary Tree Zigzag Level Order Traversal 
+* Inorder traversal is a smart way but I think using queue for bfs is better. 
 
 
 
