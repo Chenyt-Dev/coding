@@ -7,7 +7,8 @@
 ### 105. Construct Binary Tree from Preorder and Inorder Traversal 
 * Can get the idea from the definitions of each traversal. Can use map to speed up. 
 
-
+### 106. Construct Binary Tree from Inorder and Postorder Traversal 
+* Similar problem. Used map this time. 
 
 
 
