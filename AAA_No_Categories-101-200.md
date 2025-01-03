@@ -15,3 +15,10 @@
 
 ### 108. Convert Sorted Array to Binary Search Tree 
 * Used recursive way. 
+
+### 109. Convert Sorted List to Binary Search Tree 
+* A sorted array can be treated as a preorder traversal.
+
+
+
+
