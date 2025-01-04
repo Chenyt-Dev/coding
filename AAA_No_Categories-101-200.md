@@ -22,5 +22,6 @@
 ### 110. Balanced Binary Tree 
 * Do a dfs and return the heights (or minus value as inbalanced). 
 
-
+### 111. Minimum Depth of Binary Tree 
+* Used dfs and had to take care of each corner cases. Had to say bfs is much better here. 
 
