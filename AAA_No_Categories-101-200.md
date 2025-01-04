@@ -19,6 +19,8 @@
 ### 109. Convert Sorted List to Binary Search Tree 
 * A sorted array can be treated as a preorder traversal.
 
+### 110. Balanced Binary Tree 
+* Do a dfs and return the heights (or minus value as inbalanced). 
 
 
 
