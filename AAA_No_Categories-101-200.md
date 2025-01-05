@@ -25,3 +25,5 @@
 ### 111. Minimum Depth of Binary Tree 
 * Used dfs and had to take care of each corner cases. Had to say bfs is much better here. 
 
+### 112. Path Sum 
+* Find a path and stop. 
