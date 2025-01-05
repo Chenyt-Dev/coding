@@ -38,3 +38,14 @@
 ### 115. Distinct Subsequences 
 * A dp problem. Need to understand the transition process. 
 
+### 116. Populating Next Right Pointers in Each Node 
+* Used queue but recursive is also easy to implement.
+
+
+
+
+
+
+
+
+
