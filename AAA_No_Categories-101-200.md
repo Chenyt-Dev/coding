@@ -35,4 +35,6 @@
 ### 114. Flatten Binary Tree to Linked List 
 * There are some really good solutions for this. 
 
+### 115. Distinct Subsequences 
+* A dp problem. Need to understand the transition process. 
 
