@@ -27,3 +27,10 @@
 
 ### 112. Path Sum 
 * Find a path and stop. 
+
+### 113. Path Sum II 
+* Use dfs to traverse the tree.
+* When calculating the time complexity, need to consider the time to copy the path. 
+
+
+
