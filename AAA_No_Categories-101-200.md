@@ -32,5 +32,7 @@
 * Use dfs to traverse the tree.
 * When calculating the time complexity, need to consider the time to copy the path. 
 
+### 114. Flatten Binary Tree to Linked List 
+* There are some really good solutions for this. 
 
 
