@@ -47,6 +47,8 @@
 ### 120. Triangle 
 * From top to bottom and checked bounderies. If do from bottom to top then no need to do this. 
 
+### 121. Best Time to Buy and Sell Stock 
+* Find the max difference. 
 
 
 
