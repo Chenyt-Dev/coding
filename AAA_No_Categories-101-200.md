@@ -50,7 +50,8 @@
 ### 121. Best Time to Buy and Sell Stock 
 * Find the max difference. 
 
-
+### 122. Best Time to Buy and Sell Stock II 
+* Sum up each up hills. 
 
 
 
