@@ -44,7 +44,8 @@
 ### 117. Populating Next Right Pointers in Each Node II 
 * Good to learn the level traversal.
 
-
+### 120. Triangle 
+* From top to bottom and checked bounderies. If do from bottom to top then no need to do this. 
 
 
 
