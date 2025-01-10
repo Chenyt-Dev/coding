@@ -62,6 +62,9 @@
 ### 127. Word Ladder 
 * Good for BFS. 
 
+### 126. Word Ladder II 
+* Took really long time on this but it's just a bfs+dfs.
+* Using set instead of list is good for reducing the duplicates on each level. 
 
 
 
