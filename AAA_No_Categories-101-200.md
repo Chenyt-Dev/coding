@@ -70,4 +70,6 @@
 * The idea to always checking when the number is the leading number in a sequence is a good idea.
 * Need to keep in mind that there are duplicates in the list and we need to traverse the hash set instead. 
 
+### 129. Sum Root to Leaf Numbers 
+* Just going down the tree with numbers. 
 
