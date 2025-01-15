@@ -79,6 +79,8 @@
 ### 131. Palindrome Partitioning 
 * Use dp to pre-calculate the palindromes and then dfs. 
 
+### 132. Palindrome Partitioning II 
+* Not easy to think of the dp way for palindrome problems. 
 
 
 
