@@ -76,6 +76,8 @@
 ### 130. Surrounded Regions 
 * Just dfs in boundries.
 
+### 131. Palindrome Partitioning 
+* Use dp to pre-calculate the palindromes and then dfs. 
 
 
 
