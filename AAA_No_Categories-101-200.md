@@ -85,6 +85,8 @@
 ### 133. Clone Graph 
 * Used map to record visited nodes. 
 
+### 134. Gas Station 
+* We just need to find the position with accumulated gas, so no need to try each circle. 
 
 
 
