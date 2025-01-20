@@ -88,6 +88,7 @@
 ### 134. Gas Station 
 * We just need to find the position with accumulated gas, so no need to try each circle. 
 
-
+### 135. Candy 
+* Got the idea from the solutions. Need to dimplify the question. 
 
 
