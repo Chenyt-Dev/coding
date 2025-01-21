@@ -91,4 +91,10 @@
 ### 135. Candy 
 * Got the idea from the solutions. Need to dimplify the question. 
 
+### 136. Single Number 
+* Just do xor. 
+
+
+
+
 
