@@ -94,6 +94,8 @@
 ### 136. Single Number 
 * Just do xor. 
 
+### 137. Single Number II 
+* Learned the idea but how to explain in an interview that how I come up with that idea. 
 
 
 
