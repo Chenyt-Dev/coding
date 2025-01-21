@@ -97,6 +97,8 @@
 ### 137. Single Number II 
 * Learned the idea but how to explain in an interview that how I come up with that idea. 
 
+### 138. Copy List with Random Pointer 
+* Inserted the new nodes into the original list and then split them. 
 
 
 
