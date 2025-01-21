@@ -100,5 +100,7 @@
 ### 138. Copy List with Random Pointer 
 * Inserted the new nodes into the original list and then split them. 
 
+### 139. Word Break 
+* Consider dp but not recursive. 
 
 
