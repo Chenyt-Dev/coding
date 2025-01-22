@@ -109,6 +109,8 @@
 ### 141. Linked List Cycle 
 * Got the idea but also need to consider corner case before submitting. 
 
+### 142. Linked List Cycle II 
+* Do the logic by hand. Need to check input/output clearly. 
 
 
 
