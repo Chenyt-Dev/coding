@@ -106,6 +106,8 @@
 ### 140. Word Break II 
 * Can use dfs + memo. 
 
+### 141. Linked List Cycle 
+* Got the idea but also need to consider corner case before submitting. 
 
 
 
