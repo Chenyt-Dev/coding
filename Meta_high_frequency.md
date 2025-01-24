@@ -6,3 +6,11 @@
 ### 680. Valid Palindrome II
 * It's neat to write a helper function. Use a boolean to represent if we can delete a character or not.
 * Worst case is that we need to check the whole string twice. So time complexity is O(n). 
+
+### 314. Binary Tree Vertical Order Traversal 
+* I made a mistake to use dfs first but that couldn't work because dfs is not always going top-down for each column.
+* Then switched to BFS, I used two queues: one for nodes, one for indexes. Also maintain a value of start index to help get the correct column in the result list.
+* For each node we visit once, so time complexity is O(2^h), h is height. Maximum space needed is the width of the tree, which is also O(2^h).
+
+
+
