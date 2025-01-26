@@ -18,4 +18,7 @@
 * Had some time to deal with the TLE issue. The quick way to solve is skip the same values.
 * On average, it could take just O(n). But it needs a good pivot each round. Or worst case it will take O(n^2). 
 
+### 408. Valid Word Abbreviation 
+* A problem without much to care. Corner cases are also only 1.
+* O(n) time complexity.
 
