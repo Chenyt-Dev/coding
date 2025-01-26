@@ -12,5 +12,10 @@
 * Then switched to BFS, I used two queues: one for nodes, one for indexes. Also maintain a value of start index to help get the correct column in the result list.
 * For each node we visit once, so time complexity is O(2^h), h is height. Maximum space needed is the width of the tree, which is also O(2^h).
 
+### 215. Kth Largest Element in an Array 
+* Priority queue or heap look quick to implement but I think it wants people to use quick select.
+* Quick select is similar to quick sort, but now we only need the kth element.
+* Had some time to deal with the TLE issue. The quick way to solve is skip the same values.
+* On average, it could take just O(n). But it needs a good pivot each round. Or worst case it will take O(n^2). 
 
 
