@@ -22,3 +22,10 @@
 * A problem without much to care. Corner cases are also only 1.
 * O(n) time complexity.
 
+### 227. Basic Calculator II 
+* Looks like a classic calculator problem and it's not complicated.
+* Used stack to save the numbers. For loop can also be used in stack, good to know.
+* O(n). Need to write a neat version. 
+
+
+
