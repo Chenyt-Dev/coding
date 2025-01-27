@@ -32,6 +32,9 @@
 * Just store the numbers from the end of nums1.
 * Time is O(m+n).
 
-
+### 1650. Lowest Common Ancestor of a Binary Tree III
+* This one can be solved using a hash set or purely 2 runners.
+* When use hash set, we just check which one is the first common node.
+* For runners, the distance to the root is a+l for p, b+l for q. We just let them keep running in their routes, until they meet which is na+mb+l, they will always meet at some point because the distance na+mb will always be reached. 
 
 
