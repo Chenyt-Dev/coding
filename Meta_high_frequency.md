@@ -28,4 +28,10 @@
 * O(n). Need to write a neat version. 
 * Need to take care of all corner cases. Do nothing at white spaces, when operator or end of the string, do operations with the prior numbers. 
 
+### 88. Merge Sorted Array 
+* Just store the numbers from the end of nums1.
+* Time is O(m+n).
+
+
+
 
