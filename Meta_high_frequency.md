@@ -26,6 +26,6 @@
 * Looks like a classic calculator problem and it's not complicated.
 * Used stack to save the numbers. For loop can also be used in stack, good to know.
 * O(n). Need to write a neat version. 
-
+* Need to take care of all corner cases. Do nothing at white spaces, when operator or end of the string, do operations with the prior numbers. 
 
 
