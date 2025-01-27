@@ -37,4 +37,10 @@
 * When use hash set, we just check which one is the first common node.
 * For runners, the distance to the root is a+l for p, b+l for q. We just let them keep running in their routes, until they meet which is na+mb+l, they will always meet at some point because the distance na+mb will always be reached. 
 
+### 528. Random Pick with Weight 
+* Use Random.nextInt(bound). Note the range is [0, bound), exclusive, so need to plus 1 after that.
+* Then use binary search to find what is the index of the random number. Just a genaral search, not much corner case.
+
+
+
 
