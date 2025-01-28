@@ -46,7 +46,10 @@
 * We can just divide the cases: if they are on different sides of the current node, then current node is the lowest ancestor; if they are on same side, recursively search on that side and return it; while searching, if the current node is the same as one of p and q, then just return no matter where is the other one, it will fall into one case mentioned before.
 * Worst case if that we have to traverse the whole tree, so it's O(n) while n is the number of nodes. 
 
-
+### 162. Find Peak Element 
+* We just need to find one peek in the array.
+* When see O(log n), think about binary search.
+* So when we see the elements are going higher, it's guaranteed that there's a peek on the higher side; if going lower, then there must be a peek on the opposite side. 
 
 
 
