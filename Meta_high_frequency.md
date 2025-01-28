@@ -61,4 +61,14 @@
 * For this question, we need to take care of boundries first, because Integer.MIN_VALUE will cause an overflow.
 * Then calculate with bits, for 32-bit integers, we only need to calculate 32 times at most. O() is instant. 
 
+### 71. Simplify Path 
+* String.split("/") returns String[].
+* I just follow the cases in the description, using a List<String> to record the current path.
+* Corner case is when the List is empty then we are at root. And when we are at root, after ".." we are still at root. 
+
+
+
+
+
+
 
