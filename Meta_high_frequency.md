@@ -41,6 +41,13 @@
 * Use Random.nextInt(bound). Note the range is [0, bound), exclusive, so need to plus 1 after that.
 * Then use binary search to find what is the index of the random number. Just a genaral search, not much corner case.
 
+### 236. Lowest Common Ancestor of a Binary Tree 
+* The difference between this and 1650 is that we can't access parent node now.
+* We can just divide the cases: if they are on different sides of the current node, then current node is the lowest ancestor; if they are on same side, recursively search on that side and return it; while searching, if the current node is the same as one of p and q, then just return no matter where is the other one, it will fall into one case mentioned before.
+* Worst case if that we have to traverse the whole tree, so it's O(n) while n is the number of nodes. 
+
+
+
 
 
 
