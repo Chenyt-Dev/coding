@@ -51,6 +51,10 @@
 * When see O(log n), think about binary search.
 * So when we see the elements are going higher, it's guaranteed that there's a peek on the higher side; if going lower, then there must be a peek on the opposite side. 
 
+### 339. Nested List Weight Sum 
+* This structure is similar to a tree, we need to calculate the value of each item multiples with the level.
+* We can use a helper function to do it recursively or use a queue.
+* We need to calculate each element, so time is O(n). Space is the depth, O(depth), worst case is O(n) - the depth is same as n. 
 
 
 
