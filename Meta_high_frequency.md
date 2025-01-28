@@ -56,5 +56,9 @@
 * We can use a helper function to do it recursively or use a queue.
 * We need to calculate each element, so time is O(n). Space is the depth, O(depth), worst case is O(n) - the depth is same as n. 
 
+### 50. Pow(x, n) 
+* For pow related problems, think about bit manipulations.
+* For this question, we need to take care of boundries first, because Integer.MIN_VALUE will cause an overflow.
+* Then calculate with bits, for 32-bit integers, we only need to calculate 32 times at most. O() is instant. 
 
 
