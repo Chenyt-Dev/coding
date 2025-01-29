@@ -66,7 +66,8 @@
 * I just follow the cases in the description, using a List<String> to record the current path.
 * Corner case is when the List is empty then we are at root. And when we are at root, after ".." we are still at root. 
 
-
+### 543. Diameter of Binary Tree 
+* Search in each node, calc the diameter for each node, return the depth of that node. 
 
 
 
