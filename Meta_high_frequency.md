@@ -69,6 +69,8 @@
 ### 543. Diameter of Binary Tree 
 * Search in each node, calc the diameter for each node, return the depth of that node. 
 
+### 938. Range Sum of BST 
+* Used recursive way. Each solution has similar idea. Need to stop if the current node equals one of the boundries. 
 
 
 
