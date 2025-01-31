@@ -72,6 +72,11 @@
 ### 938. Range Sum of BST 
 * Used recursive way. Each solution has similar idea. Need to stop if the current node equals one of the boundries. 
 
+### 1570. Dot Product of Two Sparse Vectors 
+* First, thinking of making 2 maps and traverse in one of them.
+* Another way is to use List<int[]>, and use two pointers to traverse both vectors at the same time. This is also good with both time & space.
+* Use int[], easy to write.
+* If one is not sparse, we can still use List but binary search on the dense one. 
 
 
 
