@@ -87,6 +87,9 @@
 * Because the problem just needs the number, we don't actually need to know what are the start and end positions of the subarrays.
 * We can use preSum to calculate the accumulated sum from beginning, then use map to store the previous presums and the time each of them appears. Then just calculate the number of sub sum with the ending position of the current position.
 
+### 1091. Shortest Path in Binary Matrix 
+* A BFS with visited as mem. O(mn) as we visit each position at most once.
+* Corner cases are: [0][0] position is not 0; matrix is only 1x1. 
 
 
 
