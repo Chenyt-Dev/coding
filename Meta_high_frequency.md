@@ -78,5 +78,10 @@
 * Use int[], easy to write.
 * If one is not sparse, we can still use List but binary search on the dense one. 
 
+### 311. Sparse Matrix Multiplication 
+* Follow up of 1570.
+* Similar idea but 2D this time. Still use the List<int[]> method.
+
+
 
 
