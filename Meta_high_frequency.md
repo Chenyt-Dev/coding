@@ -95,5 +95,7 @@
 * Just two pointer. Not much edge case.
 * Read description carefully. 
 
+### 1. Two Sum 
+* Use hash-map and one-pass. Take O(n) time. 
 
 
