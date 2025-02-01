@@ -91,6 +91,9 @@
 * A BFS with visited as mem. O(mn) as we visit each position at most once.
 * Corner cases are: [0][0] position is not 0; matrix is only 1x1. 
 
+### 125. Valid Palindrome 
+* Just two pointer. Not much edge case.
+* Read description carefully. 
 
 
 
