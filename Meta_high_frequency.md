@@ -106,5 +106,10 @@
 * Easier to implement if going from right to left, using a linked list or stack.
 * Can also go from left to right, just pop out lower buildings in the stack. 
 
+### 56. Merge Intervals 
+* Used sort and merged the intervals using a tail.
+* Got the idea of using an interval tree without sorting but it's kind of taking too much time to implement. 
+
+
 
 
