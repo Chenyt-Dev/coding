@@ -98,4 +98,10 @@
 ### 1. Two Sum 
 * Use hash-map and one-pass. Take O(n) time. 
 
+### 199. Binary Tree Right Side View 
+* Can do dfs or bfs. The time complexities are same: need to visit each node of the tree O(n).
+* For bfs, just use a queue, and put last node in the result; for dfs, visit right child first and put its value in result list.
+
+
+
 
