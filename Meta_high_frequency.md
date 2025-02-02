@@ -102,6 +102,9 @@
 * Can do dfs or bfs. The time complexities are same: need to visit each node of the tree O(n).
 * For bfs, just use a queue, and put last node in the result; for dfs, visit right child first and put its value in result list.
 
+### 1762. Buildings With an Ocean View 
+* Easier to implement if going from right to left, using a linked list or stack.
+* Can also go from left to right, just pop out lower buildings in the stack. 
 
 
 
