@@ -110,6 +110,10 @@
 * Used sort and merged the intervals using a tail.
 * Got the idea of using an interval tree without sorting but it's kind of taking too much time to implement. 
 
+### 146. LRU Cache 
+* Use linked list and map to make get and put O(1).
+* Code is not difficult just need to get the idea. 
+
 
 
 
