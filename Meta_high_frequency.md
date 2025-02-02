@@ -119,5 +119,8 @@
 * Time is O(nlogk) as we need to put n nodes in the pq.
 * Need to remember the customized compare with pq. 
 
+### 986. Interval List Intersections 
+* Compare the 4 start/end points of two list node and then move the index one at a time.
+* Just need to visit each interval once or twice so time is O(n). 
 
 
