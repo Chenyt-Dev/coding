@@ -114,6 +114,10 @@
 * Use linked list and map to make get and put O(1).
 * Code is not difficult just need to get the idea. 
 
+### 23. Merge k Sorted Lists 
+* Use pq to maintain the min heap with k nodes.
+* Time is O(nlogk) as we need to put n nodes in the pq.
+* Need to remember the customized compare with pq. 
 
 
 
