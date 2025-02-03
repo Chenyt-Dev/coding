@@ -123,4 +123,9 @@
 * Compare the 4 start/end points of two list node and then move the index one at a time.
 * Just need to visit each interval once or twice so time is O(n). 
 
+### 973. K Closest Points to Origin 
+* Use quick select to just get the closest k points but don't need to sort them. Average time O(n), worst can be O(n^2) as the pivot can be bad.
+
+
+
 
