@@ -126,6 +126,8 @@
 ### 973. K Closest Points to Origin 
 * Use quick select to just get the closest k points but don't need to sort them. Average time O(n), worst can be O(n^2) as the pivot can be bad.
 
+### 129. Sum Root to Leaf Numbers 
+* Recursively visit all the nodes. O(n) for visiting each node once. 
 
 
 
