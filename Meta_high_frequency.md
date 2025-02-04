@@ -137,3 +137,10 @@
 * Used bottom up method to reduce the memory usage. Time is O(nlogn) still.
 * Need to take care of pointers. 
 
+### 921. Minimum Add to Make Parentheses Valid 
+* Going over the chars and count.
+* String.charAt() is actually fast.
+
+
+
+
