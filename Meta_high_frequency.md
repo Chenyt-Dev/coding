@@ -133,4 +133,7 @@
 * Used a queue and a sum.
 * Using a circular array seems faster but do we actually need that. Both solutions are O(1). 
 
+### 148. Sort List
+* Used bottom up method to reduce the memory usage. Time is O(nlogn) still.
+* Need to take care of pointers. 
 
