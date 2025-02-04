@@ -129,5 +129,8 @@
 ### 129. Sum Root to Leaf Numbers 
 * Recursively visit all the nodes. O(n) for visiting each node once. 
 
+### 346. Moving Average from Data Stream 
+* Used a queue and a sum.
+* Using a circular array seems faster but do we actually need that. Both solutions are O(1). 
 
 
