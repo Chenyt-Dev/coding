@@ -141,6 +141,8 @@
 * Going over the chars and count.
 * String.charAt() is actually fast.
 
+### 269. Alien Dictionary 
+* Topology sort took me some time as it's long so it contains more details. 
 
 
 
