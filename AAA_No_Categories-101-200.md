@@ -112,5 +112,14 @@
 ### 142. Linked List Cycle II 
 * Do the logic by hand. Need to check input/output clearly. 
 
+### 143. Reorder List 
+* If no idea for list problems, think about reverse. 
+
+
+
+
+
+
+
 
 
