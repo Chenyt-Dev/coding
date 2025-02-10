@@ -115,6 +115,8 @@
 ### 143. Reorder List 
 * If no idea for list problems, think about reverse. 
 
+### 147. Insertion Sort List 
+* Just follow the steps in the description. 
 
 
 
