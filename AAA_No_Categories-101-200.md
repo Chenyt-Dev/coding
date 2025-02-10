@@ -118,6 +118,8 @@
 ### 147. Insertion Sort List 
 * Just follow the steps in the description. 
 
+### 149. Max Points on a Line 
+* The idea is not complicated. Just need to be familiar with the slopes calculations. 
 
 
 
