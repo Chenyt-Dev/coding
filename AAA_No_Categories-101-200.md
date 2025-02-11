@@ -129,7 +129,8 @@
 * Using stack and stringbuilder need extra O(n) space.
 * Can do this in place by converting to array and reversing twice. 
 
-
+### 152. Maximum Product Subarray 
+* Two pointers. Reset if meets zeros. 
 
 
 
