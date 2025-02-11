@@ -121,6 +121,11 @@
 ### 149. Max Points on a Line 
 * The idea is not complicated. Just need to be familiar with the slopes calculations. 
 
+### 150. Evaluate Reverse Polish Notation 
+* Just use a stack of numbers.
+* So far only 150.
+
+
 
 
 
