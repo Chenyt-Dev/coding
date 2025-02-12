@@ -132,6 +132,8 @@
 ### 152. Maximum Product Subarray 
 * Two pointers. Reset if meets zeros. 
 
+### 153. Find Minimum in Rotated Sorted Array 
+* Just keep it simple. Which half we want. Only need to compare with the right boundry. 
 
 
 
