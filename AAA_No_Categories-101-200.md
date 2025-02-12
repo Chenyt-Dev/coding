@@ -135,6 +135,7 @@
 ### 153. Find Minimum in Rotated Sorted Array 
 * Just keep it simple. Which half we want. Only need to compare with the right boundry. 
 
-
+### 154. Find Minimum in Rotated Sorted Array II 
+* Similar to 153. For duplicate numbers, just need to shink using r-- or l++ when the middle number is the same as right boundry. 
 
 
