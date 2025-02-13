@@ -153,6 +153,8 @@
 ### 159. Longest Substring with At Most Two Distinct Characters 
 * Sliding window is easier to extend. 
 
+### 160. Intersection of Two Linked Lists 
+* Using two pointers is better as there's no extra space and just need to traverse 2 times at most. 
 
 
 
