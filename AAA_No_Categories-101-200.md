@@ -150,6 +150,8 @@
 ### 158. Read N Characters Given read4 II - Call Multiple Times 
 * I used one pointer and I had to move the pointer each time. If use two pointers, then the code can be more clean. 
 
+### 159. Longest Substring with At Most Two Distinct Characters 
+* Sliding window is easier to extend. 
 
 
 
