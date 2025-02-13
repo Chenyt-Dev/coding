@@ -144,6 +144,8 @@
 ### 156. Binary Tree Upside Down 
 * Just do what the description wants to do, recursively.
 
+### 157. Read N Characters Given Read4 
+* Used a temp buf to store and keep calling it until n chars. 
 
 
 
