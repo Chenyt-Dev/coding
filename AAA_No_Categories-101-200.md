@@ -138,4 +138,8 @@
 ### 154. Find Minimum in Rotated Sorted Array II 
 * Similar to 153. For duplicate numbers, just need to shink using r-- or l++ when the middle number is the same as right boundry. 
 
+### 155. Min Stack 
+* Use linked node to build a stack with a min value;
+
+
 
