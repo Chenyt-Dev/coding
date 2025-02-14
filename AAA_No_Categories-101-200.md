@@ -156,5 +156,10 @@
 ### 160. Intersection of Two Linked Lists 
 * Using two pointers is better as there's no extra space and just need to traverse 2 times at most. 
 
+### 161. One Edit Distance 
+* Easy idea. But need to write it neat.
+
+
+
 
 
