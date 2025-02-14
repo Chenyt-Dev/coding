@@ -159,6 +159,8 @@
 ### 161. One Edit Distance 
 * Easy idea. But need to write it neat.
 
+### 163. Missing Ranges 
+* Easy one. Not sure about the purpose. Just going over each number. 
 
 
 
