@@ -162,6 +162,8 @@
 ### 163. Missing Ranges 
 * Easy one. Not sure about the purpose. Just going over each number. 
 
+### 164. Maximum Gap 
+* Not familiar with bucket sort. 
 
 
 
