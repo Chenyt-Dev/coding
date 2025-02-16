@@ -168,6 +168,9 @@
 ### 165. Compare Version Numbers 
 * Used String.split, note that . is a special char in regex, need to use "\\."
 
+### 166. Fraction to Recurring Decimal 
+* Used map to store the idx that a repeat number showed up.
+* not a fan of this kind of question in an interview. 
 
 
 
