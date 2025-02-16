@@ -172,6 +172,7 @@
 * Used map to store the idx that a repeat number showed up.
 * not a fan of this kind of question in an interview. 
 
-
+### 167. Two Sum II - Input Array Is Sorted 
+* Need to think more. 
 
 
