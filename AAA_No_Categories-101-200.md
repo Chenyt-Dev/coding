@@ -165,5 +165,10 @@
 ### 164. Maximum Gap 
 * Not familiar with bucket sort. 
 
+### 165. Compare Version Numbers 
+* Used String.split, note that . is a special char in regex, need to use "\\."
+
+
+
 
 
