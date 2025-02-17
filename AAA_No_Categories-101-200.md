@@ -173,6 +173,11 @@
 * not a fan of this kind of question in an interview. 
 
 ### 167. Two Sum II - Input Array Is Sorted 
-* Need to think more. 
+* Need to think more.
+
+### 170. Two Sum III - Data structure design 
+* Still need a map and a list to traverse.
+
+
 
 
