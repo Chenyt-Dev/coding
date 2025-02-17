@@ -178,6 +178,8 @@
 ### 170. Two Sum III - Data structure design 
 * Still need a map and a list to traverse.
 
+### 172. Factorial Trailing Zeroes 
+* How many 5s. 
 
 
 
