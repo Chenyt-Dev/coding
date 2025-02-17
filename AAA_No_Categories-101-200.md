@@ -181,5 +181,11 @@
 ### 172. Factorial Trailing Zeroes 
 * How many 5s. 
 
+### 173. Binary Search Tree Iterator 
+* Originally did a traversal and then both hasNext and next are O(1) but memory is O(n).
+* Tried using stack, now memory is O(h) and both hasNext and next are still O(1).
+
+
+
 
 
