@@ -188,6 +188,10 @@
 ### 174. Dungeon Game 
 * Need to write code efficiently.
 
+### 179. Largest Number 
+* It's important to quickly estimate what is the optimized possible solution.
+* For this one, sorting can not be avoided.
+* Using concat is a good idea. 
 
 
 
