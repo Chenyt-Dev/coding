@@ -202,6 +202,8 @@
 ### 188. Best Time to Buy and Sell Stock IV 
 * Harder for considering the dp approach.
 
+### 189. Rotate Array 
+* Using 3 reverses can make it O(1) extra space. 
 
 
 
