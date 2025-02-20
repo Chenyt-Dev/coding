@@ -196,5 +196,7 @@
 ### 186. Reverse Words in a String II 
 * Reverse the whole string and then reverse each word. 
 
+### 187. Repeated DNA Sequences 
+* Seems like Set is faster than Map. 
 
 
