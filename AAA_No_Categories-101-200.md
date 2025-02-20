@@ -205,6 +205,8 @@
 ### 189. Rotate Array 
 * Using 3 reverses can make it O(1) extra space. 
 
+### 190. Reverse Bits 
+* Bit manipulations. 
 
 
 
