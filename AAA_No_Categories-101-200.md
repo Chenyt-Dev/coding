@@ -211,6 +211,8 @@
 ### 191. Number of 1 Bits 
 * Even easier than 190. 
 
+### 198. House Robber 
+* Easy dp but not actually need a dp array. 
 
 
 
