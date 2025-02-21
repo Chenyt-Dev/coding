@@ -208,6 +208,8 @@
 ### 190. Reverse Bits 
 * Bit manipulations. 
 
+### 191. Number of 1 Bits 
+* Even easier than 190. 
 
 
 
