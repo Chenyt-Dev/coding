@@ -9,3 +9,13 @@
 
 ### 204. Count Primes 
 * Used the way to start from 2, then delete all the not prime numbers. 
+
+### 206. Reverse Linked List 
+* Both iterative and recursive are fine. Iterative seems easier to write.
+
+
+
+
+
+
+
