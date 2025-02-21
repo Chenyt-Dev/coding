@@ -4,5 +4,7 @@
 ### 202. Happy Number 
 * Two pointers could save space. Using set seems has less operations. 
 
+### 203. Remove Linked List Elements 
+* Used one pointer. Can also do recursively. 
 
 
