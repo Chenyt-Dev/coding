@@ -7,4 +7,5 @@
 ### 203. Remove Linked List Elements 
 * Used one pointer. Can also do recursively. 
 
-
+### 204. Count Primes 
+* Used the way to start from 2, then delete all the not prime numbers. 
