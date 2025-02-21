@@ -214,6 +214,7 @@
 ### 198. House Robber 
 * Easy dp but not actually need a dp array. 
 
-
+### 200. Number of Islands 
+* A classic dfs. 
 
 
