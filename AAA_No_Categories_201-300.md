@@ -22,5 +22,7 @@
 ### 209. Minimum Size Subarray Sum 
 * A sliding window question. 
 
+### 210. Course Schedule II 
+* Same topology sort, just need to output the order. 
 
 
