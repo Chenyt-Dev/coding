@@ -28,3 +28,8 @@
 ### 211. Design Add and Search Words Data Structure 
 * Used trie. For general matching character have to go through each child. 
 
+### 212. Word Search II 
+* Trie again. This time need to store the word and do a dfs.
+
+
+
