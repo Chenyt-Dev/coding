@@ -31,5 +31,7 @@
 ### 212. Word Search II 
 * Trie again. This time need to store the word and do a dfs.
 
+### 213. House Robber II 
+* Can reuse helper functions. 
 
 
