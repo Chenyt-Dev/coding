@@ -25,4 +25,6 @@
 ### 210. Course Schedule II 
 * Same topology sort, just need to output the order. 
 
+### 211. Design Add and Search Words Data Structure 
+* Used trie. For general matching character have to go through each child. 
 
