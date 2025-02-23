@@ -34,4 +34,17 @@
 ### 213. House Robber II 
 * Can reuse helper functions. 
 
+### 214. Shortest Palindrome 
+* Learned kmp a little bit. Would be surprised if saw this in an interview. 
+
+
+
+
+
+
+
+
+
+
+
 
