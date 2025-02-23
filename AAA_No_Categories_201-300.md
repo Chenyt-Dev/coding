@@ -43,6 +43,8 @@
 ### 218. The Skyline Problem 
 * Split the buildings to begins and ends. The idea is to record the heights using pq and only put into result list if the highest height changes. 
 
+### 219. Contains Duplicate II 
+* Used a set. Not need the exact distance. 
 
 
 
