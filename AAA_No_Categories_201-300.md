@@ -37,6 +37,8 @@
 ### 214. Shortest Palindrome 
 * Learned kmp a little bit. Would be surprised if saw this in an interview. 
 
+### 216. Combination Sum III 
+* I just used backtracking. Not sure when will have a problem with only 9 digits. 
 
 
 
