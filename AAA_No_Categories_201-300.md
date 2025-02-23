@@ -40,6 +40,8 @@
 ### 216. Combination Sum III 
 * I just used backtracking. Not sure when will have a problem with only 9 digits. 
 
+### 218. The Skyline Problem 
+* Split the buildings to begins and ends. The idea is to record the heights using pq and only put into result list if the highest height changes. 
 
 
 
