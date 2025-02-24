@@ -67,6 +67,8 @@
 ### 228. Summary Ranges 
 * Just simulate the procedure. 
 
+### 229. Majority Element II 
+* Kind of learned a new candidate algorithm. 
 
 
 
