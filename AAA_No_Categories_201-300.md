@@ -58,6 +58,15 @@
 ### 223. Rectangle Area 
 * Learned some rectangle calculations. 
 
+### 224. Basic Calculator 
+* The ideas for calculators is similar, just use a stack and operate on each character.
+
+
+
+
+
+
+
 
 
 
