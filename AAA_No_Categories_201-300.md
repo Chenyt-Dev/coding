@@ -46,6 +46,8 @@
 ### 219. Contains Duplicate II 
 * Used a set. Not need the exact distance. 
 
+### 220. Contains Duplicate III 
+* Used buckets. Need to convert to long before doing operations. Easy to overflow. 
 
 
 
