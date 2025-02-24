@@ -64,7 +64,8 @@
 ### 226. Invert Binary Tree 
 * Straightforward if do it recursively. 
 
-
+### 228. Summary Ranges 
+* Just simulate the procedure. 
 
 
 
