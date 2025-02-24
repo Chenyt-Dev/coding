@@ -55,7 +55,8 @@
 ### 222. Count Complete Tree Nodes 
 * With the help of left and right most nodes. 
 
-
+### 223. Rectangle Area 
+* Learned some rectangle calculations. 
 
 
 
