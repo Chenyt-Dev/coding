@@ -52,6 +52,8 @@
 ### 221. Maximal Square 
 * Used dp. The size is depending on neighbors. 
 
+### 222. Count Complete Tree Nodes 
+* With the help of left and right most nodes. 
 
 
 
