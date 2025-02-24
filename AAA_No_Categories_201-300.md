@@ -49,6 +49,8 @@
 ### 220. Contains Duplicate III 
 * Used buckets. Need to convert to long before doing operations. Easy to overflow. 
 
+### 221. Maximal Square 
+* Used dp. The size is depending on neighbors. 
 
 
 
