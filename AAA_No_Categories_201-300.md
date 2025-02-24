@@ -61,6 +61,8 @@
 ### 224. Basic Calculator 
 * The ideas for calculators is similar, just use a stack and operate on each character.
 
+### 226. Invert Binary Tree 
+* Straightforward if do it recursively. 
 
 
 
