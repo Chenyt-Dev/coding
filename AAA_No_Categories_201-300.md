@@ -88,6 +88,8 @@
 ### 238. Product of Array Except Self 
 * Similar to pre sum, this is pre product and post product. 
 
+### 239. Sliding Window Maximum 
+* Use Deque. 
 
 
 
