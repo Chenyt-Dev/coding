@@ -76,7 +76,8 @@
 ### 231. Power of Two 
 * Used a normal way. But using bit is faster.
 
-
+### 233. Number of Digit One 
+* Haven't taken time on this one. 
 
 
 
