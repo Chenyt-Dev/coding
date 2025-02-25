@@ -79,6 +79,8 @@
 ### 233. Number of Digit One 
 * Haven't taken time on this one. 
 
+### 235. Lowest Common Ancestor of a Binary Search Tree 
+* Only 3 situations. 
 
 
 
