@@ -70,6 +70,8 @@
 ### 229. Majority Element II 
 * Kind of learned a new candidate algorithm. 
 
+### 230. Kth Smallest Element in a BST 
+* Used inorder. Can also use stack. 
 
 
 
