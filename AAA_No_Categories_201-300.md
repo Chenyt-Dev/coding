@@ -73,6 +73,14 @@
 ### 230. Kth Smallest Element in a BST 
 * Used inorder. Can also use stack. 
 
+### 231. Power of Two 
+* Used a normal way. But using bit is faster.
+
+
+
+
+
+
 
 
 
