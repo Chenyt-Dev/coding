@@ -91,6 +91,8 @@
 ### 239. Sliding Window Maximum 
 * Use Deque. 
 
+### 240. Search a 2D Matrix II 
+* Need to increase and decrease for different directions. 
 
 
 
