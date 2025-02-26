@@ -94,7 +94,8 @@
 ### 240. Search a 2D Matrix II 
 * Need to increase and decrease for different directions. 
 
-
+### 241. Different Ways to Add Parentheses 
+* Need to find all the results. Recursive and using a memo map. 
 
 
 
