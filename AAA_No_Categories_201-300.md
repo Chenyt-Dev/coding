@@ -97,6 +97,8 @@
 ### 241. Different Ways to Add Parentheses 
 * Need to find all the results. Recursive and using a memo map. 
 
+### 243. Shortest Word Distance 
+* Use two pointers. 
 
 
 
