@@ -100,5 +100,13 @@
 ### 243. Shortest Word Distance 
 * Use two pointers. 
 
+### 244. Shortest Word Distance II 
+* Use a map. 
+
+
+
+
+
+
 
 
