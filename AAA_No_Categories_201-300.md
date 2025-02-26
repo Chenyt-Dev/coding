@@ -103,6 +103,8 @@
 ### 244. Shortest Word Distance II 
 * Use a map. 
 
+### 245. Shortest Word Distance III 
+* Similar, just need to compare the two words. 
 
 
 
