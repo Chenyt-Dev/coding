@@ -112,7 +112,8 @@
 ### 247. Strobogrammatic Number II 
 * Recursively generate it. 
 
-
+### 248. Strobogrammatic Number III 
+* Similar idea to generate numbers but can use string compares to verify if in range or not. 
 
 
 
