@@ -115,5 +115,6 @@
 ### 248. Strobogrammatic Number III 
 * Similar idea to generate numbers but can use string compares to verify if in range or not. 
 
-
+### 249. Group Shifted Strings 
+* Made some keys for each group. 
 
