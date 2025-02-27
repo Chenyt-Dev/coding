@@ -106,6 +106,8 @@
 ### 245. Shortest Word Distance III 
 * Similar, just need to compare the two words. 
 
+### 246. Strobogrammatic Number 
+* List the options. 
 
 
 
