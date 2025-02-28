@@ -127,6 +127,8 @@
 ### 252. Meeting Rooms 
 * Just used the normal way to sort the intervals and then compare begins with last ends.
 
+### 253. Meeting Rooms II 
+* PriorityQueue and arrays sorts. 
 
 
 
