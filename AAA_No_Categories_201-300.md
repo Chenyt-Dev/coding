@@ -123,3 +123,14 @@
 
 ### 251. Flatten 2D Vector 
 * Need to keep it easy. 
+
+### 252. Meeting Rooms 
+* Just used the normal way to sort the intervals and then compare begins with last ends.
+
+
+
+
+
+
+
+
