@@ -130,6 +130,11 @@
 ### 253. Meeting Rooms II 
 * PriorityQueue and arrays sorts. 
 
+### 254. Factor Combinations 
+* Recursive method. Spent some time for the exit point. Need to restrict the rear numbers larger than prior ones to prevent duplicates.
+
+
+
 
 
 
