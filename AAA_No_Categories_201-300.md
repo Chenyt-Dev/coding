@@ -121,3 +121,5 @@
 ### 250. Count Univalue Subtrees 
 * Judge by results of subtrees. Update the count when do dfs. 
 
+### 251. Flatten 2D Vector 
+* Need to keep it easy. 
