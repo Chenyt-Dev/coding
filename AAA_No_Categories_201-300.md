@@ -145,5 +145,7 @@
 ### 258. Add Digits 
 * Are we expected to know math logic on this. 
 
+### 259. 3Sum Smaller 
+* Don't need to find each of the triples. 
 
 
