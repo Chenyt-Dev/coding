@@ -154,6 +154,8 @@
 ### 261. Graph Valid Tree 
 * Keys for union find: 1. find parent 2. number of edges
 
+### 263. Ugly Number 
+* Keep dividing with 2,3,5 see if we can get 1. 
 
 
 
