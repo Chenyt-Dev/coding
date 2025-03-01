@@ -139,6 +139,8 @@
 ### 256. Paint House 
 * Easy dp. 
 
+### 257. Binary Tree Paths 
+* Time to copy the strings are also counted. 
 
 
 
