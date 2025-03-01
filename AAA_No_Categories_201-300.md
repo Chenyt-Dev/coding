@@ -148,4 +148,6 @@
 ### 259. 3Sum Smaller 
 * Don't need to find each of the triples. 
 
+### 260. Single Number III 
+* Bit is still not familiar. 
 
