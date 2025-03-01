@@ -160,6 +160,8 @@
 ### 264. Ugly Number II 
 * Using 3 pointers is smart. 
 
+### 265. Paint House II 
+* Need to keep 2 min values. Still dp, need to keep last min values and indexes and current min values and indexes. 
 
 
 
