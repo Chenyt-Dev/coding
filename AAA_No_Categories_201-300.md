@@ -136,7 +136,8 @@
 ### 255. Verify Preorder Sequence in Binary Search Tree 
 * Use stack to keep updating low boundries. 
 
-
+### 256. Paint House 
+* Easy dp. 
 
 
 
