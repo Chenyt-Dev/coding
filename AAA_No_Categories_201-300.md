@@ -166,6 +166,8 @@
 ### 266. Palindrome Permutation 
 * Used counts. 
 
+### 267. Palindrome Permutation II 
+* Do the check then dfs. Think there's no easier way. 
 
 
 
