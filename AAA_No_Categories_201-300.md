@@ -157,6 +157,8 @@
 ### 263. Ugly Number 
 * Keep dividing with 2,3,5 see if we can get 1. 
 
+### 264. Ugly Number II 
+* Using 3 pointers is smart. 
 
 
 
