@@ -151,3 +151,15 @@
 ### 260. Single Number III 
 * Bit is still not familiar. 
 
+### 261. Graph Valid Tree 
+* Keys for union find: 1. find parent 2. number of edges
+
+
+
+
+
+
+
+
+
+
