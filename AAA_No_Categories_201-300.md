@@ -142,7 +142,8 @@
 ### 257. Binary Tree Paths 
 * Time to copy the strings are also counted. 
 
-
+### 258. Add Digits 
+* Are we expected to know math logic on this. 
 
 
 
