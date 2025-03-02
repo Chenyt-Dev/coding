@@ -172,5 +172,6 @@
 ### 270. Closest Binary Search Tree Value 
 * Just need to go one side so not strictly need dfs. 
 
-
+### 271. Encode and Decode Strings 
+* Encode using string's length. 
 
