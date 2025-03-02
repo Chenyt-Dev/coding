@@ -184,6 +184,8 @@
 ### 274. H-Index 
 * Using buckets is smart. 
 
+### 275. H-Index II 
+* Comparing with last part. 
 
 
 
