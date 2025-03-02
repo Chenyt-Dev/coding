@@ -190,6 +190,8 @@
 ### 276. Paint Fence 
 * Need to do some infers. 
 
+### 277. Find the Celebrity 
+* Two conditions, need to be careful. 
 
 
 
