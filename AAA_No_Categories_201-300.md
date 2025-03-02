@@ -196,6 +196,8 @@
 ### 278. First Bad Version 
 * Always think of binary search for this kind of problem. 
 
+### 279. Perfect Squares 
+* Used dp. 
 
 
 
