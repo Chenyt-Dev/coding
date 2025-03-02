@@ -193,5 +193,20 @@
 ### 277. Find the Celebrity 
 * Two conditions, need to be careful. 
 
+### 278. First Bad Version 
+* Always think of binary search for this kind of problem. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
