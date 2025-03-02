@@ -169,6 +169,8 @@
 ### 267. Palindrome Permutation II 
 * Do the check then dfs. Think there's no easier way. 
 
+### 270. Closest Binary Search Tree Value 
+* Just need to go one side so not strictly need dfs. 
 
 
 
