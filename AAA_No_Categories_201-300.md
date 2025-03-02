@@ -187,6 +187,8 @@
 ### 275. H-Index II 
 * Comparing with last part. 
 
+### 276. Paint Fence 
+* Need to do some infers. 
 
 
 
