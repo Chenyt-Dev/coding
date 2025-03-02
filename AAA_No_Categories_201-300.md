@@ -181,6 +181,8 @@
 ### 273. Integer to English Words 
 * Split the integers. Less time than I thought. 
 
+### 274. H-Index 
+* Using buckets is smart. 
 
 
 
