@@ -229,6 +229,8 @@
 ### 289. Game of Life 
 * If using bit in the original grid, then no need extra space. 
 
+### 290. Word Pattern 
+* Used two maps. 
 
 
 
