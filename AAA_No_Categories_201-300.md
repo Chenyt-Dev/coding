@@ -205,6 +205,8 @@
 ### 281. Zigzag Iterator 
 * Can use List<Iterator>. 
 
+### 282. Expression Add Operators 
+* Need to deal with multiply, other corner cases. 
 
 
 
