@@ -202,7 +202,8 @@
 ### 280. Wiggle Sort 
 * Find invalid paris then can just swap them. 
 
-
+### 281. Zigzag Iterator 
+* Can use List<Iterator>. 
 
 
 
