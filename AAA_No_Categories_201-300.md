@@ -253,3 +253,9 @@
 ### 297. Serialize and Deserialize Binary Tree 
 * DFS can be shorter. 
 
+### 298. Binary Tree Longest Consecutive Sequence 
+* Take the max value as a parameter, or put it as an instant variable?
+
+
+
+
