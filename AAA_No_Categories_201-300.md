@@ -220,6 +220,8 @@
 ### 286. Walls and Gates 
 * Thought bfs should have better O than dfs. 
 
+### 287. Find the Duplicate Number 
+* So many ideas. Looked slow fast pointers and binary search.
 
 
 
