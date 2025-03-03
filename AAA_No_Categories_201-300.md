@@ -235,6 +235,8 @@
 ### 291. Word Pattern II 
 * Backtracking with map and set. 
 
+### 292. Nim Game 
+* Take some examples and find the pattern. 
 
 
 
