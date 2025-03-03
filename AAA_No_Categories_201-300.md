@@ -208,6 +208,8 @@
 ### 282. Expression Add Operators 
 * Need to deal with multiply, other corner cases. 
 
+### 283. Move Zeroes 
+* Used a pointer. 
 
 
 
