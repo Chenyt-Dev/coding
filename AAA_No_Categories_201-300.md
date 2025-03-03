@@ -217,6 +217,8 @@
 ### 285. Inorder Successor in BST 
 * Do it recursively. 
 
+### 286. Walls and Gates 
+* Thought bfs should have better O than dfs. 
 
 
 
