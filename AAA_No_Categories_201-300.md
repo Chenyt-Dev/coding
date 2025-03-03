@@ -226,6 +226,8 @@
 ### 288. Unique Word Abbreviation 
 * Using a map is enough. 
 
+### 289. Game of Life 
+* If using bit in the original grid, then no need extra space. 
 
 
 
