@@ -256,6 +256,7 @@
 ### 298. Binary Tree Longest Consecutive Sequence 
 * Take the max value as a parameter, or put it as an instant variable?
 
-
+### 299. Bulls and Cows 
+* Two pass. 
 
 
