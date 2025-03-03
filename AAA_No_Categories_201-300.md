@@ -238,7 +238,8 @@
 ### 292. Nim Game 
 * Take some examples and find the pattern. 
 
-
+### 293. Flip Game 
+* Just go over each position. 
 
 
 
