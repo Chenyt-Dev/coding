@@ -241,7 +241,8 @@
 ### 293. Flip Game 
 * Just go over each position. 
 
-
+### 294. Flip Game II 
+* Backtracking. Seems char array is faster. 
 
 
 
