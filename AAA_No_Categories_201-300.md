@@ -211,6 +211,8 @@
 ### 283. Move Zeroes 
 * Used a pointer. 
 
+### 284. Peeking Iterator 
+* A cache for recording the next element. 
 
 
 
