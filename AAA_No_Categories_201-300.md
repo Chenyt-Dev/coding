@@ -250,4 +250,6 @@
 ### 296. Best Meeting Point 
 * Convert to 1Ds. 
 
+### 297. Serialize and Deserialize Binary Tree 
+* DFS can be shorter. 
 
