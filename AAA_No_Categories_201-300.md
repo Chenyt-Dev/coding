@@ -259,4 +259,5 @@
 ### 299. Bulls and Cows 
 * Two pass. 
 
-
+### 300. Longest Increasing Subsequence 
+* Why I didn't remember this solution at all. 
