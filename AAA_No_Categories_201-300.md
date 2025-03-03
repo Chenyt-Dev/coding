@@ -247,5 +247,7 @@
 ### 295. Find Median from Data Stream 
 * Two heaps. 
 
+### 296. Best Meeting Point 
+* Convert to 1Ds. 
 
 
