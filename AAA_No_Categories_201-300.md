@@ -244,6 +244,8 @@
 ### 294. Flip Game II 
 * Backtracking. Seems char array is faster. 
 
+### 295. Find Median from Data Stream 
+* Two heaps. 
 
 
 
