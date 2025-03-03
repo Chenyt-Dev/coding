@@ -223,6 +223,16 @@
 ### 287. Find the Duplicate Number 
 * So many ideas. Looked slow fast pointers and binary search.
 
+### 288. Unique Word Abbreviation 
+* Using a map is enough. 
+
+
+
+
+
+
+
+
 
 
 
