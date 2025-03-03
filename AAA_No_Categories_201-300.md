@@ -199,6 +199,8 @@
 ### 279. Perfect Squares 
 * Used dp. 
 
+### 280. Wiggle Sort 
+* Find invalid paris then can just swap them. 
 
 
 
