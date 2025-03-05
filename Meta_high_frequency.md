@@ -144,5 +144,15 @@
 ### 269. Alien Dictionary 
 * Topology sort took me some time as it's long so it contains more details. 
 
+### 499. The Maze III 
+* Both bfs and dfs should work. Easy to make mistakes.
+
+
+
+
+
+
+
+
 
 
