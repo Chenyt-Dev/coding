@@ -147,7 +147,9 @@
 ### 499. The Maze III 
 * Both bfs and dfs should work. Easy to make mistakes.
 
-
+### 1539. Kth Missing Positive Number 
+* Think of O(n) at first. But could do O(logn) by binary search.
+* If followup with start with the first number instead of 1, we just need to have an offset and keep binary search. 
 
 
 
